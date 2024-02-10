@@ -1,20 +1,36 @@
 .myDiv
 {
-  position: absolute;
-  top: 88%;
+  position: absolute; /* kolor picker */
+  top: 89%;
   left: 50%;
   transform: translate( -50%, -1500%);
 }
+
+/* starter pack */
+
+.linia1
+{
+  position: relative;
+  top: 12;
+  border: none;
+  height: 12px;
+  background: #C03939;
+}
+
 h1
 {
   position: absolute;
+  text-align: center;
   top: 5%;
-  left: 50%;
+  left: 45%;
   transform: translate( -35%, 20%);
+  font-family: 'Roboto', sans-serif;
   color: #C03939;
-  font-size: 50px;
-  width: 600px;
+  font-size: 48px;
+  width: 500px;
+  letter-spacing: -1px;
 }
+
 
 
 
@@ -38,6 +54,7 @@ h3
   top: 57%;
   left: 50%;
   transform: translate( -80%, 150%);
+  font-family: 'Roboto', sans-serif;
   color: #C03939;
   font-size: 50px;
   width: 600px;
@@ -65,6 +82,7 @@ h5
   top: 57%;
   left: 50%;
   transform: translate( 340%, 150%);
+  font-family: 'Roboto', sans-serif;
   color: #C03939;
   font-size: 50px;
   width: 100px;
@@ -89,9 +107,10 @@ h7
 .tekst3
 {
   position: absolute;
-  top: 57%;
-  left: 50%;
+  top: 60%;
+  left: 47%;
   transform: translate( -80%, 535%);
+  font-family: 'Roboto', sans-serif;
   color: #C03939;
   font-size: 50px;
   width: 600px;
@@ -116,9 +135,10 @@ h9
 .tekst4
 {
   position: absolute;
-  top: 57%;
-  left: 50%;
+  top: 60%;
+  left: 52%;
   transform: translate( 300%, 535%);
+  font-family: 'Roboto', sans-serif;
   color: #C03939;
   font-size: 50px;
   width: 100px;
@@ -143,9 +163,10 @@ h11
 .tekst5
 {
   position: absolute;
-  top: 57%;
+  top: 59%;
   left: 50%;
   transform: translate( -82%, 935%);
+  font-family: 'Roboto', sans-serif;
   color: #C03939;
   font-size: 50px;
   width: 600px;
@@ -170,10 +191,579 @@ h13
 .tekst6
 {
   position: absolute;
-  top: 57%;
+  top: 59%;
   left: 50%;
   transform: translate( 300%, 935%);
+  font-family: 'Roboto', sans-serif;
   color: #C03939;
   font-size: 50px;
   width: 100px;
+}
+
+
+
+/* klasa 2 dlc */
+
+.linia2
+{
+  position: relative;
+  top: 2100px;
+  border: none;
+  height: 12px;
+  background: #C03939;
+}
+
+h14
+{
+  position: absolute;
+  text-align: center;
+  top: 300%;
+  left: 45%;
+  transform: translate( -35%, 20%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 52px;
+  width: 500px;
+}
+
+
+
+
+h18
+{
+  position: absolute;
+  top: 190%;
+  left: 50%;
+  transform: translate( -650%, 2190%);
+}
+h19
+{
+  position: absolute;
+  top: 137%;
+  left: 57%;
+  transform: translate( -191%, 288%);
+}
+.tekst7
+{
+  position: absolute;
+  text-align: center;
+  top: 115%;
+  left: 32.5%;
+  transform: translate( -82%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 400px;
+}
+
+h20
+{
+  position: absolute;
+  top: 190%;
+  left: 50%;
+  transform: translate( 580%, 2190%);
+}
+h21
+{
+  position: absolute;
+  top: 170%;
+  left: 53%;
+  transform: translate( 106%, 280%);
+}
+.tekst8
+{
+  position: absolute;
+  top: 192%;
+  left: 51.5%;
+  transform: translate( 300%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+
+
+h22
+{
+  position: absolute;
+  top: 288%;
+  left: 50%;
+  transform: translate( -650%, 2190%);
+}
+h23
+{
+  position: absolute;
+  top: 270%;
+  left: 48%;
+  transform: translate( -191%, 288%);
+}
+.tekst9
+{
+  position: absolute;
+  text-align: center;
+  top: 290%;
+  left: 32.5%;
+  transform: translate( -82%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 400px;
+}
+
+h24
+{
+  position: absolute;
+  top: 288%;
+  left: 50%;
+  transform: translate( 580%, 2190%);
+}
+h25
+{
+  position: absolute;
+  top: 270%;
+  left: 47%;
+  transform: translate( 106%, 280%);
+}
+.tekst10
+{
+  position: absolute;
+  top: 290%;
+  left: 51.5%;
+  transform: translate( 300%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+
+
+/* fordon dlc */
+
+.linia3
+{
+  position: relative;
+  top: 3770px;
+  border: none;
+  height: 12px;
+  background: #C03939;
+}
+
+h15
+{
+  position: absolute;
+  text-align: center;
+  top: 530%;
+  left: 45%;
+  transform: translate( -35%, 20%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 52px;
+  width: 500px;
+}
+
+h26
+{
+  position: absolute;
+  top: 412%;
+  left: 50%;
+  transform: translate( -650%, 2190%);
+}
+h27
+{
+  position: absolute;
+  top: 393.5%;
+  left: 50%;
+  transform: translate( -191%, 288%);
+}
+.tekst11
+{
+  position: absolute;
+  text-align: center;
+  top: 415%;
+  left: 32.5%;
+  transform: translate( -82%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 400px;
+}
+
+h28
+{
+  position: absolute;
+  top: 412%;
+  left: 50%;
+  transform: translate( 580%, 2190%);
+}
+h29
+{
+  position: absolute;
+  top: 393.5%;
+  left: 49%;
+  transform: translate( 106%, 280%);
+}
+.tekst12
+{
+  position: absolute;
+  top: 415%;
+  left: 51.5%;
+  transform: translate( 300%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+h30
+{
+  position: absolute;
+  top: 508%;
+  left: 50%;
+  transform: translate( -650%, 2190%);
+}
+h31
+{
+  position: absolute;
+  top: 475%;
+  left: 49%;
+  transform: translate( -191%, 288%);
+}
+.tekst13
+{
+  position: absolute;
+  text-align: center;
+  top: 510%;
+  left: 32.5%;
+  transform: translate( -82%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 400px;
+}
+
+h32
+{
+  position: absolute;
+  top: 508%;
+  left: 50%;
+  transform: translate( 580%, 2190%);
+}
+h33
+{
+  position: absolute;
+  top: 494%;
+  left: 49%;
+  transform: translate( 106%, 280%);
+}
+.tekst14
+{
+  position: absolute;
+  top: 510%;
+  left: 53.5%;
+  transform: translate( 300%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+
+
+/* poznan dlc */
+
+.linia4
+{
+  position: relative;
+  top: 5366px;
+  border: none;
+  height: 12px;
+  background: #C03939;
+}
+
+h16
+{
+  position: absolute;
+  text-align: center;
+  top: 750%;
+  left: 45%;
+  transform: translate( -35%, 20%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 52px;
+  width: 500px;
+}
+
+h34
+{
+  position: absolute;
+  top: 635%;
+  left: 50%;
+  transform: translate( -650%, 2190%);
+}
+h35
+{
+  position: absolute;
+  top: 605%;
+  left: 50%;
+  transform: translate( -191%, 288%);
+}
+.tekst15
+{
+  position: absolute;
+  text-align: center;
+  top: 636%;
+  left: 32.5%;
+  transform: translate( -82%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 400px;
+}
+
+h36
+{
+  position: absolute;
+  top: 635%;
+  left: 50%;
+  transform: translate( 580%, 2190%);
+}
+h37
+{
+  position: absolute;
+  top: 612%;
+  left: 49%;
+  transform: translate( 106%, 280%);
+}
+.tekst16
+{
+  position: absolute;
+  top: 636%;
+  left: 52%;
+  transform: translate( 300%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+h38
+{
+  position: absolute;
+  top: 733%;
+  left: 50%;
+  transform: translate( -650%, 2190%);
+}
+h39
+{
+  position: absolute;
+  top: 692%;
+  left: 51%;
+  transform: translate( -191%, 288%);
+}
+.tekst17
+{
+  position: absolute;
+  text-align: center;
+  top: 735%;
+  left: 32.5%;
+  transform: translate( -82%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 400px;
+}
+
+h40
+{
+  position: absolute;
+  top: 733%;
+  left: 50%;
+  transform: translate( 580%, 2190%);
+}
+h41
+{
+  position: absolute;
+  top: 699%;
+  left: 49%;
+  transform: translate( 106%, 280%);
+}
+.tekst18
+{
+  position: absolute;
+  top: 736%;
+  left: 52%;
+  transform: translate( 300%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+
+
+/* sp63 dlc */
+
+.linia5
+{
+  position: relative;
+  top: 6992px;
+  border: none;
+  height: 12px;
+  background: #C03939;
+}
+
+h17
+{
+  position: absolute;
+  text-align: center;
+  top: 976%;
+  left: 45%;
+  transform: translate( -35%, 20%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 52px;
+  width: 500px;
+}
+
+h42
+{
+  position: absolute;
+  top: 865%;
+  left: 50%;
+  transform: translate( -650%, 2190%);
+}
+h43
+{
+  position: absolute;
+  top: 826%;
+  left: 50%;
+  transform: translate( -191%, 288%);
+}
+.tekst19
+{
+  position: absolute;
+  text-align: center;
+  top: 868%;
+  left: 33%;
+  transform: translate( -82%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 400px;
+}
+
+h44
+{
+  position: absolute;
+  top: 866%;
+  left: 50%;
+  transform: translate( 580%, 2190%);
+}
+h45
+{
+  position: absolute;
+  top: 840%;
+  left: 49%;
+  transform: translate( 106%, 280%);
+}
+.tekst20
+{
+  position: absolute;
+  top: 868%;
+  left: 52%;
+  transform: translate( 300%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+h46
+{
+  position: absolute;
+  top: 958%;
+  left: 50%;
+  transform: translate( -650%, 2190%);
+}
+h47
+{
+  position: absolute;
+  top: 927%;
+  left: 53%;
+  transform: translate( -191%, 288%);
+}
+.tekst21
+{
+  position: absolute;
+  text-align: center;
+  top: 960%;
+  left: 33%;
+  transform: translate( -82%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 400px;
+}
+
+h48
+{
+  position: absolute;
+  top: 959%;
+  left: 50%;
+  transform: translate( 580%, 2190%);
+}
+h49
+{
+  position: absolute;
+  top: 935%;
+  left: 45%;
+  transform: translate( 106%, 280%);
+}
+.tekst22
+{
+  position: absolute;
+  top: 961%;
+  left: 52%;
+  transform: translate( 300%, 935%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 50px;
+  width: 100px;
+}
+
+.linia6
+{
+  position: relative;
+  top: 8702px;
+  border: none;
+  height: 12px;
+  background: #C03939;
+}
+
+h69
+{
+  position: absolute;
+  text-align: center;
+  top: 1202%;
+  left: 40%;
+  transform: translate( -35%, 20%);
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-size: 7px;
+  width: 1000px;
+}
+
+h70
+{
+  position: absolute;
+  text-align: center;
+  top: 1500%;
+  left: 45%;
+  transform: translate( -35%, 20%);
+  font-family: 'Roboto', sans-serif;
+  color: #C03939;
+  font-size: 52px;
+  width: 500px;
 }
